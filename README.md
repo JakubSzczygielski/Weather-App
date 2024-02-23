@@ -1,1 +1,1 @@
-# repozitori
+Fully completed Weather App :)
